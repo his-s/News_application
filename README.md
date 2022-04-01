@@ -1,16 +1,19 @@
-# new_app
+# First-Eye News Application
 
-A new Flutter project.
+**Packeges used in this app**
+```
+  bloc: ^7.1.0
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  flutter_bloc: ^7.2.0
+  lint: ^1.7.2
+  path: ^1.8.0
+  share_plus: ^2.1.4
+  sqflite: ^2.0.0+4
+  webview_flutter: ^2.0.12
+```
+**Video From This App**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/70527079/161240376-3e2c819e-72d8-4a32-b00f-d5acb36bf161.mp4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
